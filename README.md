@@ -4,11 +4,11 @@ Enlace: https://arturo-ch-f.github.io/Encriptador-2.1/
 
 ¿Cómo funciona?
 ----------------------------------------
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" es convertida para "enter"
+- La letra "i" es convertida para "imes"
+- La letra "a" es convertida para "ai"
+- La letra "o" es convertida para "ober"
+- La letra "u" es convertida para "ufat"
 
 NOTA:
 
@@ -17,8 +17,8 @@ NOTA:
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 
 Ejemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
+- "gato" => "gaitober" (encriptar)
+- gaitober" => "gato"  (desencriptar)
 
 Tecnologías utilizadas:
 
